@@ -1,12 +1,12 @@
 # git-ghq-create
 
-`git`のサブコマンドで、`hub create`して`ghq get`までを一発に実行するものです。
+`git`のサブコマンドで、`hub create`して`ghq get`までを一発で実行するものです。
 
 `ghq`のサブコマンドが作れるなら、その方がよさそうな気もします。
 
 ## Usage
 
-`git-ghq-create`をパスの通っているところに適当に置いて使います。
+`git-ghq-create`をパスの通っているところに置いて使います。
 
 ```
 $ git ghq-create REPO_NAME
